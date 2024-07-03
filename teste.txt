@@ -7,3 +7,6 @@ git push                                                    - aplica commits no 
 git pull                                                    - recebe alterações no repositorio
 git clone (url_repositorio)                                 - clona repositorio
 git rm (nome_arquivo.formato)                               - remove arquivo
+git log                                                     - exibi log de commits
+git mv (nome_arquivo) (nome_arquivo_destinatario)           - mover ou renomear arquivo
+git checkout (nome_arquivo)                                 - retorna arquivo para estado original
