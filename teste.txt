@@ -11,3 +11,5 @@ git log                                                     - exibi log de commi
 git mv (nome_arquivo) (nome_arquivo_destinatario)           - mover ou renomear arquivo
 git checkout (nome_arquivo)                                 - retorna arquivo para estado original
 git reset --hard origin/(nome_branch)                       - reseta branch
+git checkout (nome_branch)                                  - muda de branch
+git merge (nome_branch)                                     - recebe commits da branch citada
