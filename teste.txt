@@ -24,3 +24,7 @@ git show (nome_tag)                                         - mostra alteraçõe
 git push origin (nome_tag)/--tags                           - envia tag ao repositorio
 git checkout -b "(nome_branch)"                             - cria branch
 git fetch -a                                                - recupera todas as branchs remotas
+git submodule                                               - lista submodulos
+git show (nome)                                             - mostra informações da branch ou tag
+git diff                                                    - mostra diferenças do repositorio com código
+git shortlog                                                - log resumido do projeto
