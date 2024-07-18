@@ -28,3 +28,8 @@ git submodule                                               - lista submodulos
 git show (nome)                                             - mostra informações da branch ou tag
 git diff                                                    - mostra diferenças do repositorio com código
 git shortlog                                                - log resumido do projeto
+git clean                                                   - limpa arquivos não utilizados no repositorio
+git gc                                                      - limpa e otimiza repositorio
+git fsck                                                    - testa se há corrupção nos arquivos
+git reflog                                                  - lista movimentações feita no repositorio
+git reset -hard (codigo_movimentação)                       - retrocede para o estado do código inserido
